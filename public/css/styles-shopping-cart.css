@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding: 0;
+    
+    
+}
+div.top-header{
+    margin-bottom: 50px;
+}
+.h2-carrito{
+    width: 90px;
+    border-radius: 20px;
+    background-color: #fff;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    color : #000;
+}
+h3{
+    text-align: center;
+    color : #000;
+}
+hr{
+    margin: 20px;
+
+}
+.h3-precio-total{
+    width: 200px;
+    border-radius: 500px;
+    background-color: #fff;
+    margin: auto;
+}
+.precio-boton{
+    text-align: center;
+}
+button{
+    margin: 20px;
+    background-color: #fff;
+    width: 100px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.main section article{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0 10px 0;
+}
+main section article div.product-truck a{
+    margin: 20px 0 ;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+
+
+.img-product-truck img{
+
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+}
+
+section article a {
+    color: #fff;
+    text-decoration: none;
+}
